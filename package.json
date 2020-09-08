@@ -1,5 +1,5 @@
 {
-  "name": "webpack-starter-kit",
+  "name": "hw-js-10",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "url": "https://github.com/TanyaChichkan/hw-js-10.git"
   },
   "keywords": [],
-  "author": "Tetiana Chichkan <tchichkan28@gmail.com>",
+  "author": "TanyaChichkan <tchichkan28@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TanyaChichkan/hw-js-10.git"
